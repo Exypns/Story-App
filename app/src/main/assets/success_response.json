@@ -1,0 +1,9 @@
+{
+  "error": false,
+  "message": "success",
+  "loginResult": {
+    "userId": "user-yj5pc_LARC_AgK61",
+    "name": "zz",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLW1GQUNOYU96SllkYUt0a2UiLCJpYXQiOjE3MTc4MzYxMTV9.9PTs6U4JeiGL1pMYc97mLngbsLrv7o714E1rSlJMSyY"
+  }
+}

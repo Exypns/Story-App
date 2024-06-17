@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="sign_up">Daftar</string>
+    <string name="app_tagline">Bagikan momen mu, bentuk cerita mu</string>
+    <string name="welcome_text">Selamat Datan di StoryApp</string>
+    <string name="log_in">Masuk</string>
+    <string name="password">Sandi</string>
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="log_out">Keluar</string>
+    <string name="registration">Registrasi</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="share_your_story">Bagikan Cerita Mu</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="change_language">Ganti Bahasa</string>
+</resources>
